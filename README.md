@@ -73,7 +73,9 @@ endmodule
 ![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
 
 ## Simulation Results
-(Insert Simulation Waveform Here)
+
+![Screenshot 2025-03-29 233612](https://github.com/user-attachments/assets/3a7d4929-df32-46df-b776-c090673b4f26)
+
 
 ## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
