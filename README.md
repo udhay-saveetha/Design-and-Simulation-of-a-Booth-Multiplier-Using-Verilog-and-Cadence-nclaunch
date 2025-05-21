@@ -142,7 +142,7 @@ initial begin
     load = 0;
     reset = 1'b1;         // Assert reset
     M = 4'b0111;          // M = 7
-    Q = 4'b1011;          // Q = 3
+    Q = 4'b1011;          // Q = -5
 
     #20;
     load = 1;             // Load M and Q
