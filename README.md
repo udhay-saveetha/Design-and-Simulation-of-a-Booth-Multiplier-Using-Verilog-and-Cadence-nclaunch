@@ -45,7 +45,7 @@ input reset,
 input [3:0] M,
 input [3:0] Q,
 //outputs
-output reg [7:0] P);
+output [7:0] P);
 
 reg [3:0] A          = 4'b0;
 reg Q_minus_one = 0;
